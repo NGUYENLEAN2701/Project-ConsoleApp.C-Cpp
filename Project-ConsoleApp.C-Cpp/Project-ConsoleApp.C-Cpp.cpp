@@ -1,4 +1,4 @@
-﻿//Create by GreenWolf
+﻿//Created by GreenWolf
 #include "SolveQE.h"
 
 int main()
